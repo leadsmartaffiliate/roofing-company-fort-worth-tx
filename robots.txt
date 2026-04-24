@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roofing-company-fort-worth-tx.netlify.app/sitemap.xml
